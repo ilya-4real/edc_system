@@ -1,0 +1,1 @@
+uvicorn src.edc_system.api.v1.main:application --reload
